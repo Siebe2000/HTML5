@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: blue;
+        stroke-width: 1.96px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Vorm_1" data-name="Vorm 1" class="cls-1" d="M175,149.538v-73.6L110.994,13.6,105.25,8,58,53.292l4.5,8.492H73.75L103,36.308l40.5,36.8-9,14.154-27-25.477L91.75,73.108Zm-24.75,0L103,192,33.25,129.723,31,47.631l83.25,76.431L103,141.046,76,115.569,60.25,126.892,103,166.523l22.5-19.815,20.25-5.662Z"/>
+</svg>

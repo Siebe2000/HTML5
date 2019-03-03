@@ -1,0 +1,11 @@
+/* specifieke stijlregels voor 404-pagina */
+.bgimage403 {
+    background: url(../afbeeldingen/404-2.jpg) no-repeat center center fixed;
+    background-size: cover;
+    background-color: #A4A4A4;
+    height: 100vh;
+    text-align: center;
+
+}
+
+

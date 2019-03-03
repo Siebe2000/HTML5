@@ -1,0 +1,9 @@
+/* specifieke stijlregels voor 403-pagina */
+.bgimage403 {
+    background: url(/afbeeldingen/pexels-photo-951408.jpeg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+
+body{font-family: 'Exo 2', sans-serif;}
